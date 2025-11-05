@@ -8,7 +8,7 @@ To perform **manual and automated testing** on an e-commerce web application (De
 ## 🧰 Tools & Technologies
 - Application Under Test:[DemoBlaze](https://www.demoblaze.com/)
 - Manual Testing: Test Plan, Test Case, Bug Report (Excel)
-- Automation Testing:Python, Selenium WebDriver, PyTest
+- Automation Testing:Java, Selenium WebDriver, PyTest
 - Reporting:HTMLTestRunner / Allure
 - Version Control:Git & GitHub
 - CI/CD:GitHub Actions
@@ -26,9 +26,9 @@ To perform **manual and automated testing** on an e-commerce web application (De
 - Negative Testing (invalid credentials, empty cart checkout)
 
 ### 🔹 Automation Testing
-- `test_login.py` → Valid & Invalid Login
-- `test_add_to_cart.py` → Adding multiple products
-- `test_checkout.py` → End-to-end purchase flow
-- `test_logout.py` → Verify logout redirects properly
+- `test_login.java` → Valid & Invalid Login
+- `test_add_to_cart.java` → Adding multiple products
+- `test_checkout.java` → End-to-end purchase flow
+- `test_logout.java` → Verify logout redirects properly
 
 
